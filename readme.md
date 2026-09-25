@@ -1,4 +1,4 @@
-# Concept 20: Hooks in depth, the whole agent loop
+# Hooks in depth, the whole agent loop
 
 This file explains how Concept 20 (**Hooks in depth**) was added to the Claude Agent SDK Lab.
 Concept 7 ([Tab7-Hooks.md](Tab7-Hooks.md)) hooked tool calls with `PreToolUse` and `PostToolUse`. `options.hooks`
